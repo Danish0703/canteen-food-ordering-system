@@ -1,0 +1,52 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.btn-block {
+  width: 100%;
+}
+
+.my-4 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+.card-header h2 {
+  margin: 0;
+}
+
+.card-body ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list-group-item h5 {
+  margin: 0;
+}
+
+.list-group-item p {
+  margin: 0;
+}
+
+.cart-button {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+}
